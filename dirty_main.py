@@ -1,2 +1,2 @@
 #dirty_main
-from package.module import *
+from application.salary import *

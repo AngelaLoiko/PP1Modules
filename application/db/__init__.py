@@ -1,1 +1,1 @@
-#пакет application
+#пакет db
